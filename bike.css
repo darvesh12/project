@@ -1,0 +1,147 @@
+*{margin:0%;
+    padding: 0%;
+    
+  }
+/* background image  of my website trip to ladakh*/
+    .bg-img{ background-image: url("ladakhme.jpg");
+    min-height:250px;
+  background-position: center;
+background-repeat:no-repeat ;
+background-size: cover;}
+
+/* logo of my website trip to ladakh*/
+.logo{background-color:transparent;
+
+  overflow:hidden;
+  height: 90px;
+ 
+}
+/* logo <a> tag of my website trip to ladakh*/
+.logo a{
+margin-left: 45px;
+float: left;
+color:white;
+text-align: center;
+text-decoration: none;
+font-size: 35px;
+padding: 14px 16px;
+background-color: transparent;
+}
+
+
+/* class of navbar of my website trip to ladakh*/
+
+.topnav{
+  background-color:transparent;
+  overflow:hidden;}
+/*navbar <a> tag of my website trip to ladakh*/
+.topnav a{
+  margin-left: 49px;
+  
+float: left;
+color:white;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+padding: 14px 16px;
+font: bolder;
+
+background-color: transparent;
+}
+/* topnav hover  of my website trip to ladakh*/
+.topnav a:hover{background-color:transparent;
+color: black;
+border-bottom: 4px solid black;}
+
+
+    .topnav a.active {background-color:transparent;
+      color: black;
+      border-bottom: 4px solid black;}
+      h4{margin: 105px 0px -100px 0px;
+      font-size:25px;
+    float:left;
+    color: rgb(3, 1, 1);
+  padding-left: 40px;}
+  
+     #swap{ color: rgb(0, 0, 0);
+      margin-top: 30px;
+  transition: 3ms;}
+      #swap{rotate: 180deg;}
+
+      
+.grid{background-color:transparent;
+
+  display:-webkit-flex;
+  border-radius: 40px;
+  
+  margin: 65px 0px 0px 310px;
+color: rgb(9, 3, 5);
+  ;
+  border-radius: 5%;
+  height: 24px;
+  }
+
+   input{border-color: black;
+    outline: none;
+   
+    width: 8%;
+    height:20px;
+    padding: 20PX 20PX 20PX 20PX;   
+     margin: 14PX 14PX 14PX 14PX;  }
+  .booking{
+  padding: 40px 0;
+  
+  color:rgb(4, 123, 123);
+  }
+  h1{
+    margin: 20px 20px 0px 0px;
+    font-family: serif;
+    font-size:30px;
+  }
+
+  button.submitt{   outline: none;
+  border-color: black
+    width: 11%;
+    height:26px;
+    padding: 28PX 45PX 34PX 45PX;   
+     margin: 14PX 7PX 7PX 7PX;
+    color:white;
+  background-color: blue;  }
+    
+  .us{
+    margin-bottom: 10px;
+    margin-left: 120px;
+  color: aliceblue;
+  font-size: 24px;}
+  .form{background-color: rgb(91, 131, 210);
+    margin: 690px 0px 0px 0px;
+  border-color: #080101;
+  padding: 35px;
+  height: 0px 20px 0px 20px;
+  
+  }
+    .contact{margin: 0px 0px 10px 120px;}
+  
+  
+    .form2{
+      text-align: initial;
+      background-color: rgb(91, 131, 210);
+      margin: -220px 70px 0px 0px;
+    border-color: hsl(0, 78%, 2%);
+    padding: -100px 0px 0px 0px;
+    height: 0px 20px 0px 2px;}
+    .destination{text-align:center;
+     padding: -100px 0px 0px 0px;
+    color: aliceblue;
+    font-size: 24px;}
+    .location{text-align: initial;
+    margin:10px 0px 0px 650px ;}
+    .link{text-align: right;
+    margin: -170px 300px 0px 0px;
+  font-size:24px;
+  color: aliceblue;}
+  #allright{color: rgb(245, 241, 241);
+    background-color: #080101;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  text-align: center;}
